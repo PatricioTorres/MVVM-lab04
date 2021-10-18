@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM lab04</string>
+    <string name="titulo">¡Bienvenido!</string>
+    <string name="nombre">Paciente</string>
+    <string name="dni">D.N.I.</string>
+    <string name="dir">Dirección</string>
+    <string name="aceptar">Aceptar</string>
+</resources>
